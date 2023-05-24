@@ -1,0 +1,5 @@
+file 2
+Some text
+from file2.txt
+...
+22222
